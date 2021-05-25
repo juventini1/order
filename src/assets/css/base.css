@@ -1,5 +1,6 @@
  @import "./normalize.css";
  @import "./reset.css";
+
  :root {
     --color-text: #666;
     --color-high-text: #ff5777;
